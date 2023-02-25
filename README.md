@@ -18,4 +18,4 @@ Here, the data were assessed both visually & programmatically for Quality and Ti
 - The tweet status of thirty-one (31) users was missing from the dataset whilst querying Twitter data. 
 - So many columns were redundant because they are either not necessary or they contain too much missing data.
 
-**Ps**: The result of my analysis and visualization can be found in the Act_Report.html file while the Wrangling process can be found in the Wrangle_Project_2.ipynb file.
+**Ps**: The result of my analysis and visualization can be found in the Act_Report.ipynb file while the Wrangling process can be found in the Wrangle_Project_2.ipynb file.
