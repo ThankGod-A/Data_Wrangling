@@ -12,10 +12,10 @@ Lastly, I queried Twitter data using Tweepy. I created a for loop for each tweet
 #### Data Assessing
 Here, the data were assessed both visually & programmatically for Quality and Tidiness issues. The issues discovered were dully documented.
 
-#### Data Cleaning involves defining the issues discovered in the data assessment, Converting my definitions into executable code, and testing my data using code to ensure my code was implemented correctly.
+**Data Cleaning** involves defining the issues discovered in the data assessment, Converting my definitions into executable code, and testing my data using code to ensure my code was implemented correctly.
 
 #### Limitation
 - The tweet status of thirty-one (31) users was missing from the dataset whilst querying Twitter data. 
 - So many columns were redundant because they are either not necessary or they contain too much missing data.
 
-#### Ps: The result of my analysis and visualization can be found in the Act_Report.html file while the Wrangling process can be found in the Wrangle_Project_2.ipynb file.
+**Ps**: The result of my analysis and visualization can be found in the Act_Report.html file while the Wrangling process can be found in the Wrangle_Project_2.ipynb file.
